@@ -1,0 +1,22 @@
+{
+  "version": "5.1.0",
+  "description": "Open Object Rexx (ooRexx) is an Open Source project managed by Rexx Language Association (RexxLA) providing a free implementation of Object Rexx, an enhancement of classic Rexx; a powerful, full-featured programming language which has a human-oriented syntax.",
+  "homepage": "https://sourceforge.net/projects/oorexx/",
+  "license": "GPL-2.0-only|GPL-1.0-only",
+  "bin": ["bin\\rexx.exe", "oorexx"],
+  "url": "https://master.dl.sourceforge.net/project/oorexx/oorexx/5.1.0/portable/oorexx-5.1.0-12973.windows.x86_64-portable-release.zip",
+  "architecture": {
+        "64bit": {
+            "url": "https://master.dl.sourceforge.net/project/oorexx/oorexx/5.1.0/portable/oorexx-5.1.0-12973.windows.x86_64-portable-release.zip",
+            "hash": "6208977dd9b224001c9cff262a4e6d1c6ef62622e48ef83a89d87c9e5d4e80d8",
+            "extract_dir": "oorexx-5.1.0-12973.windows.x86_64-portable-release"
+            
+        },
+        "32bit": {
+            "url": "https://master.dl.sourceforge.net/project/oorexx/oorexx/5.1.0/portable/oorexx-5.1.0-12973.windows.x86_32-portable-release.zip",
+            "hash": "fc518a38f7c0067a31ae3ce22e7c52587d7f61a4c82f868b8a8810954baa30aa",
+            "extract_dir": "oorexx-5.1.0-12973.windows.x86_32-portable-release"
+        }
+    }
+}
+
