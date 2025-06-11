@@ -1,0 +1,14 @@
+{
+    "version": "1.1.0",
+    "description": "A simple editor for simple needs.",
+    "homepage": "https://github.com/microsoft/edit",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/microsoft/edit/releases/download/v1.1.0/edit-1.1.0-x86_64-windows.zip",
+            "extract_dir": "edit-1.1.0-x86_64-windows",
+            "hash": "622cb1e1a2d592ae705ce8e518e86afbe2a269a4b223b7392f6c6e10e9f0913a"
+        }
+    },
+    "bin": "edit.exe"
+}
